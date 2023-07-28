@@ -28,6 +28,12 @@ The project showcases strong data analysis skills, including data cleaning, visu
 
 **Images**
 
+![mice-per-drug-regimen-timepoints](https://github.com/obi8449/mouse-tumor-volume-analysis/assets/120345543/a1c7cae4-7205-415a-a712-37ad15839ae5)
+![timepoints-all-mice](https://github.com/obi8449/mouse-tumor-volume-analysis/assets/120345543/570f39ee-c93f-4bf4-bf23-4cfdb3ed1ffe)
+![female-v-male](https://github.com/obi8449/mouse-tumor-volume-analysis/assets/120345543/2523876f-0c26-4c80-8b64-c45b3419fbe9)
+![boxplot](https://github.com/obi8449/mouse-tumor-volume-analysis/assets/120345543/3202dc09-1340-4da6-811e-e695a3d41c90)
+![scatter plot](https://github.com/obi8449/mouse-tumor-volume-analysis/assets/120345543/be635348-1713-41e4-90bf-67d00e1e6626)
+
 For a more detailed analysis and the complete code, please refer to the provided Jupyter Notebook or the project's GitHub repository.
 
 
